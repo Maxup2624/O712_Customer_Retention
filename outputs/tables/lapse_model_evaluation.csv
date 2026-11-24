@@ -1,0 +1,2 @@
+model,observation_window_days,lapse_window_days,decision_threshold,test_customers,accuracy,precision,recall,f1_score,roc_auc,true_negatives,false_positives,false_negatives,true_positives,customers_flagged,percentage_flagged
+Random Forest,365,90,0.4,4324,0.6729879740980573,0.617359413202934,0.925756186984418,0.7407407407407407,0.7622462367165015,890,1252,162,2020,3272,75.67067530064755

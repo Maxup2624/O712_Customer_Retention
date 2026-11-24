@@ -1,0 +1,5 @@
+sales_priority,customers,avg_lapse_probability,historical_net_monetary
+P1 - Immediate,801,61.873570536828964,1925058.69
+P2 - High,759,65.97841897233202,662384.65
+P3 - Selective,1702,77.60859576968272,928418.65
+P4 - Monitor,1062,21.194406779661016,8933939.98
