@@ -1,0 +1,10 @@
+customer_segment_refined,original_cancellation_value,adjusted_cancellation_value,outlier_impact
+At Risk,-10533.08,-10533.08,0.0
+Champions,-420306.35,-366225.44,-54080.909999999974
+Hibernating,-16243.44,-16243.44,0.0
+High-value At Risk,-87896.47,-57397.75,-30498.72
+Loyal Customers,-47224.37,-47224.37,0.0
+New Customers,-127.18,-127.18,0.0
+Non-positive Value,-122639.17000000001,-17473.18,-105165.99000000002
+Other / Developing,-64222.689999999995,-16930.57,-47292.119999999995
+Potential Loyalists,-195469.19,-26999.59,-168469.6
